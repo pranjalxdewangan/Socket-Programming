@@ -31,12 +31,12 @@ This project is useful for beginners learning:
 5. Closes the socket
 
 # Running 
-# Compile both programs
+### Compile both programs
 gcc tcp_server.c -o server
 gcc tcp_client.c -o client
 
-# Run the server
+### Run the server
 ./server
 
-# Open another terminal and run the client
+### Open another terminal and run the client
 ./client
